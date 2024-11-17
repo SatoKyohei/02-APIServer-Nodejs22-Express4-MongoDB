@@ -29,6 +29,7 @@ MongoDB を使った API サーバ
 -   npm install body-parser
 -   npm install moment
 -   npm install dotenv
+-   npx nodemon app/app.js
 
 <br/>
 <br/>
